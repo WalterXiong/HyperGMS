@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HyperGMS</string>
+    <string name="tile_label">GMS</string>
+    <string name="tile_label_on">Google 基础服务：已开启</string>
+    <string name="tile_label_off">Google 基础服务：已关闭</string>
+    <string name="tile_label_unavailable">Google 基础服务：不可用</string>
+    <string name="tile_label_error">Google 基础服务：检测异常</string>
+</resources>

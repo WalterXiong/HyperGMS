@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/build
+
+# signing keys
+*.keystore
+*.jks
+
+# build outputs
+*.apk
+*.aab
+
+# internal tools
+.sisyphus/
+gradle/gradle-daemon-jvm.properties
